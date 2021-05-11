@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darmel
 - 👀 I’m interested in so many things that one life wouldn´t be enough
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking to collaborate on open source projects refer to automation testing using robotics like tapsterbot
 - 📫 if i can help you, please contact me at dario.martin@gmail.com
 
 <!---
